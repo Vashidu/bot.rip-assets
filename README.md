@@ -1,0 +1,1 @@
+# bot.rip assets
